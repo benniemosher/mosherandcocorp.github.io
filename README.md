@@ -1,2 +1,2 @@
-# mosherandcocorp.github.io
-Mosher &amp; Co. Jekyll website.
+# bluejaysbistro.com
+🐦 Blue Jays Bistro's Jekyll website. 🐦
